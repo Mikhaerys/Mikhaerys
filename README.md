@@ -37,10 +37,10 @@
 
 <h2>🌐 Socials:</h2>
 <p align="center">
-  <a href="https://x.com/@Mikhaerys">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
-  </a>&nbsp;&nbsp;
   <a href="mailto:mikhaerys@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/@Mikhaerys">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
 </p>
