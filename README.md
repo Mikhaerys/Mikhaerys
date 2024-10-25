@@ -25,9 +25,9 @@
 <h2>📊 GitHub Stats:</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mikhaerys&theme=prussian&hide_border=true&include_all_commits=true&count_private=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaerys&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikhaerys&theme=prussian&hide_border=true"/>
 </div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaerys&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/></div>
 
 <h2>🏆 GitHub Trophies</h2>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Mikhaerys&theme=prussian&no-frame=false&no-bg=true&margin-w=4)"/></div>
@@ -44,6 +44,3 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
