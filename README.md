@@ -24,9 +24,8 @@
 
 <h2>📊 GitHub Stats:</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mikhaerys&theme=prussian&hide_border=true&include_all_commits=true&count_private=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaerys&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikhaerys&theme=prussian&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mikhaerys&theme=prussian&show_icons=true&hide_border=false&count_private=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaerys&theme=prussian&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
@@ -42,5 +41,14 @@
   </a>
   <a href="https://x.com/@Mikhaerys">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+</p>
+<h2>💰 You can help me by Donating</h2>
+<p align="center">
+  <a href="https://paypal.me/Mikhaerys">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+  </a>
+  <a href="https://github.com/sponsors/Mikhaerys">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
   </a>
 </p>
