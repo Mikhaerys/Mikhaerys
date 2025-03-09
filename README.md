@@ -24,8 +24,10 @@
 
 <h2>📊 GitHub Stats:</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mikhaerys&theme=prussian&show_icons=true&hide_border=false&count_private=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaerys&theme=prussian&show_icons=true&hide_border=false&layout=compact"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhaerys&theme=prussian"/>
+  <img height=190 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mikhaerys&theme=prussian"/>
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaerys&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
+  <img height=190 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mikhaerys&hide_border=true&card_width=338&theme=prussian" />
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
