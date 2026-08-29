@@ -29,7 +29,7 @@
 <div align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhaerys&theme=prussian"/>
   <img height="200" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mikhaerys&theme=prussian"/>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaerys&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mikhaerys&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
   <img align="center" src="https://streak-stats.demolab.com/?user=Mikhaerys&hide_border=true&theme=prussian" />
 </div>
 
