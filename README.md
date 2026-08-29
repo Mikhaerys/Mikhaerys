@@ -24,17 +24,21 @@
 
 <h2>📊 GitHub Stats:</h2>
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhaerys&theme=prussian"/>
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mikhaerys&theme=prussian"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaerys&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mikhaerys&hide_border=true&theme=prussian" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhaerys&theme=prussian"/>
+  <img height="200" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mikhaerys&theme=prussian"/>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaerys&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=Mikhaerys&hide_border=true&theme=prussian" />
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Mikhaerys&theme=prussian&no-frame=false&no-bg=true&margin-w=4)"/></div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mikhaerys&theme=prussian&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
 
 <h2>🔝 Top Contributed Repo</h2>
-<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Mikhaerys&limit=5&theme=prussian&combine_all_yearly_contributions=true)"/></div>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mikhaerys&limit=5&theme=prussian&combine_all_yearly_contributions=true"/>
+</div>
 
 <h2>🌐 Socials:</h2>
 <p align="center">
